@@ -18,7 +18,7 @@ startGame = False
 scores = [0, 0]  # [ai, player]
 playerMove = None
 imgAI = None  # Initialize imgAI
-maxScore = 2
+maxScore = 3
 
 # Initialize pygame
 pygame.init()
